@@ -1,0 +1,14 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="habitat.dev.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\Events\EventContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{A54CE74C-C9C8-4487-8C36-029ADCA60364}</Item>
+  </File>
+  <File Include="Views\Events\Venue.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5BF1CED9-C879-40A6-9B98-FB6FF2E338F3}</Item>
+  </File>
+  <File Include="Views\Events\EventList.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{A973BEEB-7F11-45DF-845F-CC77438900FF}</Item>
+  </File>
+</Project>
