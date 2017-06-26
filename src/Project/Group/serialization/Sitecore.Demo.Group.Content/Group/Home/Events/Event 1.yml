@@ -1,0 +1,17 @@
+﻿---
+ID: "1e924a33-79f1-4b4c-b46d-2ee07e4b2c4c"
+Parent: "a0684381-6d0a-410c-822f-2c4051d4f117"
+Template: "23ef2b31-9182-496a-b3f5-11f093dae91a"
+Path: /sitecore/content/Group/Home/Events/Event 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170626T171039Z
+    - ID: "4dbf4835-5d8a-4650-a2ae-290a5aa7d597"
+      Hint: Title
+      Value: Event 1

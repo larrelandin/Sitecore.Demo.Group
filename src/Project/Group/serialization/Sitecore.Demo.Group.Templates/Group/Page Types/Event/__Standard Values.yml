@@ -1,0 +1,14 @@
+﻿---
+ID: "f889a552-1fc9-402a-8129-eba35661b413"
+Parent: "23ef2b31-9182-496a-b3f5-11f093dae91a"
+Template: "23ef2b31-9182-496a-b3f5-11f093dae91a"
+Path: /sitecore/templates/Project/Group/Page Types/Event/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170626T151147Z

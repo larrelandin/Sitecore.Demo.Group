@@ -1,0 +1,18 @@
+﻿---
+ID: "96f78152-e10b-4f83-af4f-59e27af0c293"
+Parent: "b8f01fe1-5430-4772-aff2-540b61ab7ab7"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Events/_Event/Venue
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170626T150414Z

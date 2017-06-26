@@ -1,0 +1,17 @@
+﻿---
+ID: "c560f879-ef0e-4eb7-818f-2f83bfe3ca74"
+Parent: "a0684381-6d0a-410c-822f-2c4051d4f117"
+Template: "23ef2b31-9182-496a-b3f5-11f093dae91a"
+Path: /sitecore/content/Group/Home/Events/Event 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170626T171040Z
+    - ID: "4dbf4835-5d8a-4650-a2ae-290a5aa7d597"
+      Hint: Title
+      Value: Event 2
