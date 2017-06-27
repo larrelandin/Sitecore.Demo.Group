@@ -56,15 +56,13 @@ SharedFields:
           ph="page-layout"
           uid="{1DF746C3-2D29-43E6-9DE2-05622DED6F97}" />
         <r
-          ds=""
           id="{D201A487-5099-48A1-8189-55944F70C6CB}"
-          par="Background&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames=1"
+          par="UseStaticPlaceholderNames=1"
           ph="page-layout"
           uid="{A3CA17FF-693C-46F1-87AA-B8C1833F1890}" />
         <r
-          ds=""
           id="{CF750731-1275-4CC7-A9E6-809515CB4DD1}"
-          par="Background&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames=1"
+          par="UseStaticPlaceholderNames=1"
           ph="/page-layout/section"
           uid="{25827F00-EC67-4908-AA1C-51DEB35AD9F8}" />
         <r
@@ -109,6 +107,12 @@ SharedFields:
           id="{5BF1CED9-C879-40A6-9B98-FB6FF2E338F3}"
           ph="/page-layout/section/col-narrow-1"
           uid="{DBF2010C-2F7D-494C-8F1A-43C0D2A85FAF}" />
+        <r
+          ds=""
+          id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}"
+          par="MapType=roadmap&amp;CenterLocation=-5.055576%2C3.803790&amp;ZoomLevel=15&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl"
+          ph="/page-layout/section/col-narrow-1"
+          uid="{E23AE490-6105-487B-8ECB-5823EF2F2A57}" />
       </d>
     </r>
 Languages:

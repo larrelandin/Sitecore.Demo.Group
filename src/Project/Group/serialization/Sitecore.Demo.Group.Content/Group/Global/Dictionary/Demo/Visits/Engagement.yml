@@ -1,0 +1,21 @@
+﻿---
+ID: "fd17e9e2-a595-47c1-b26a-5ff2495f2d44"
+Parent: "8314e193-9e48-488f-ab2e-c7b23e6806e8"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Group/Global/Dictionary/Demo/Visits/Engagement
+DB: master
+Languages:
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170627T131555Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: Engagement

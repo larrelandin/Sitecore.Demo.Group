@@ -1,0 +1,21 @@
+﻿---
+ID: "726885af-4c72-4419-a6e6-2d43589cd5a0"
+Parent: "4ddc177a-f8fb-42d3-a797-468584f2807d"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Group/Global/Dictionary/identity/contact information/title
+DB: master
+Languages:
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170627T131552Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: Contact information

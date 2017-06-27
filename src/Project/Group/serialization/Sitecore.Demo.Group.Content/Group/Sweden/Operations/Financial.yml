@@ -1,0 +1,31 @@
+﻿---
+ID: "0b4196a9-1367-48dc-95c7-bf952ec6ff33"
+Parent: "07795ecc-74c6-4d2f-a96b-7beb053be5ff"
+Template: "d8e22e52-13a5-4077-acca-034e622e046e"
+Path: /sitecore/content/Group/Sweden/Operations/Financial
+DB: master
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{1C8B7FE8-F7B1-4EF5-8591-970364393053}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{1C8B7FE8-F7B1-4EF5-8591-970364393053}?lang=en&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170627T132519Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

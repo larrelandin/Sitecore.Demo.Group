@@ -9,9 +9,21 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        St Katherines Docks
+        London
+        UK
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170626T171040Z
     - ID: "4dbf4835-5d8a-4650-a2ae-290a5aa7d597"
       Hint: Title
       Value: Event 2
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Sitecore UK
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "51.5064716,-0.07132139999998799"
